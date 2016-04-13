@@ -28,6 +28,7 @@ var InitializeWelcome = function(){
 }
 InitializeWelcome();
 ´´´
+
 In addition the rest is .html code found in, well the welcome.html file :)
 
 ##Got a question?
