@@ -6,7 +6,7 @@ It is open source and for now it is also free.
 Currently it is under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.]( http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 #DevBlog on Medium
-
+[Nucleus Game Studio Blog](https://medium.com/nucleus-game-studio-for-monkey2)
 
 #Still in alpha
 Nucleus has just begun forming. It is now being built to support the Monkey2 programming language, which is a language specially built to make 2D games.
