@@ -26,8 +26,8 @@ var InitializeWelcome = function(){
   jQuery('body').prepend(html);
   document.title = 'Nucleus - Welcome';
 }
-InitializeWelcome();
-´´´
+InitializeWelcome()
+```
 
 
 In addition the rest is .html code found in, well the welcome.html file :)
